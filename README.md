@@ -20,4 +20,4 @@ Report updated as of March 18, 2026.
 #### How to Contribute or Cite
 If you wish to use the data from this research in articles, theses, or discussions on education policy, please cite this repository as follows:
 
-Corahua, A. (2026). Economic Analysis of the Traditional University System for Technology Entrepreneurs in Peru. GitHub:
+Corahua, A. (2026). Economic Analysis of the Traditional University System for Technology Entrepreneurs in Peru. GitHub: https://github.com/andrecorahua/NO-Traditional-Education 
